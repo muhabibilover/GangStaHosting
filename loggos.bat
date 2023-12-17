@@ -1,4 +1,3 @@
-powershell -window hidden -command "" >nul
 @echo off
 goto abc
 :abd
